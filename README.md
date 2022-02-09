@@ -9,7 +9,7 @@
 > на тему «Мобільний додаток»
 
 ![Under Development](https://img.shields.io/badge/under-development-orange.svg)
-[![Download App](https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png)](https://drive.google.com/file/d/1SD6d-Ml3ZV9MV_HDaUsjxuhuMEfsy_4k/view?usp=sharing)
+[![Download App]<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png" width="16px" height="16px"/>](https://drive.google.com/file/d/1SD6d-Ml3ZV9MV_HDaUsjxuhuMEfsy_4k/view?usp=sharing)
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю. 
 
 ## Рушій
