@@ -39,3 +39,91 @@
 
 <p align="center"><img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/Architect.png" width="720px" height="520px"/><p/>
 <p align="center">Рисунок 1.1. - Схема структури архітектури проектування</p>
+
+
+## Результат
+
+Зауважень стосовно продукту у замовника не було. Всі поставлені вимоги були виконані та задовольняють всім критеріям, замовнику сподобався додаток, його можливості та функціональність системи. По домовленості було обговорено про подальшу розробку та оновлення додатку, супровід, кінцевий реліз і впровадження системи.
+
+## Вихідні коди
+
+'''Початкові параметри додатку
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": false,
+    "orientation": "portrait",
+    "packageName": "com.poltavainf",
+    "pixelsRounding": false,
+    "projectUuid": "ebca1216-beb3-4a30-b84f-7ddd4ced2da4",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptHeight",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Проект",
+    "author": "Kyshynets Vlad & Rak Denis",
+    "windowWidth": 720,
+    "windowHeight": 1280,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false, 
+
+Завантаження програми та налаштування екрану
+"loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0.2,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    }, 
+
+
+
+Завантаження головного меню та налаштування кнопок і відображення
+"objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "_1052_1077_1085_1102",
+      "name": "Меню",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.36999999999999994,
+        "windowMask": false
+      }, 
