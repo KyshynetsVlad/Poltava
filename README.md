@@ -3,7 +3,8 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Технологічна практика «Розробка і супроводження 
-> ### програмного продукту» на тему «Мобільний додаток»
+> 
+> програмного продукту» на тему «Мобільний додаток»
 
 ![Under Development](https://img.shields.io/badge/under-development-orange.svg)
 
