@@ -49,6 +49,7 @@
 
 ```json
 Початкові параметри додатку
+
 {
   "firstLayout": "",
   "gdVersion": {
@@ -79,6 +80,7 @@
     
 
 Завантаження програми та налаштування екрану
+
 "loadingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
@@ -99,6 +101,7 @@
 
 
 Завантаження головного меню та налаштування кнопок і відображення
+
 "objects": [],
   "objectsGroups": [],
   "variables": [],
