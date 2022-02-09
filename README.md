@@ -12,7 +12,7 @@
 
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.   
 ## Завантажити додаток  
-[<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png" width="32px" height="32px"/>](https://drive.google.com/file/d/1SD6d-Ml3ZV9MV_HDaUsjxuhuMEfsy_4k/view?usp=sharing)
+[<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png" align="center" width="64px" height="64px"/>](https://drive.google.com/file/d/1SD6d-Ml3ZV9MV_HDaUsjxuhuMEfsy_4k/view?usp=sharing)
 
 ## Рушій
 
