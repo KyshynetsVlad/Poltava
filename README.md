@@ -47,7 +47,7 @@
 
 ## Вихідні коди
 
-'''Початкові параметри додатку
+```json
 {
   "firstLayout": "",
   "gdVersion": {
@@ -74,7 +74,8 @@
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
-    "verticalSync": false, 
+    "verticalSync": false,
+    ```
 
 Завантаження програми та налаштування екрану
 "loadingScreen": {
