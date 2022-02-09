@@ -3,9 +3,9 @@
 
 > Технологічна практика «Розробка і супроводження програмного продукту» на тему «Мобільний додаток»
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)
+![Under Development](https://img.shields.io/badge/under-development-orange.svg)
 
-So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
+Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.
 
 <br>
 <p align="center">
