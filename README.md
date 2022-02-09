@@ -7,22 +7,8 @@
 
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.
 
-<br>
-<p align="center">
-<strong>Templates included:</strong>
-<a href="/.github/README.md">README</a> • <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a> • <a href="/.github/CONTRIBUTORS.md">CONTRIBUTORS</a>
-</p>
-<br>
-
-## Installing
-
-Clone this project and name it accordingly:
-
-`git clone git@github.com:cezaraugusto/github-template-guidelines.git MY-PROJECT-NAME && cd MY-PROJECT-NAME`
-
-# Getting Started
-
-This project is a collection of [boilerplate](http://whatis.techtarget.com/definition/boilerplate) (template) files with resumed guidelines for `README`, `CONTRIBUTING` and `CONTRIBUTORS` documentation. It also includes a basic `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` which are now [allowed by GitHub](https://github.com/blog/2111-issue-and-pull-request-templates). All templates are filled under `.github/` folder. This `README` itself is a fork of the `README` [template](.github/README.md).
+## Рушій
+В ході виконання завдання було використано середовище розробки кросплатформних додатків GDevelop 5
 
 ## Usage
 
