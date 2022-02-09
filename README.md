@@ -37,5 +37,5 @@
 
 Щоб показати логіку та зв’язки між структурами програми, було створено схему головної архітектури проектування, де представлені основні можливості та функції цього застосунку, яку зображено на рисунку 1.1
 
-<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/Architect.png" width="720px" height="620px"/>
+<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/Architect.png" width="720px" height="520px"/>
 
