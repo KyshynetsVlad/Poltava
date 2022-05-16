@@ -13,10 +13,9 @@
 
 Текст
 
-<br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadym-Al&theme=solarized_dark)<br>
+<br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadym-Al&theme=solarized_dark)
 
-
-## Середовище розробки
+<br>## Середовище розробки
 
 Текст.  
 Основні переваги:
