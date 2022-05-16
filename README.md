@@ -15,7 +15,6 @@
 
 <br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadym-Al&theme=solarized_dark)
 
-<br>
 ## Середовище розробки
 
 Текст.  
