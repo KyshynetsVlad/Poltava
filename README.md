@@ -4,13 +4,12 @@
 
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технологічна+практика)
 > 
-> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-> 
 > «Розробка і супроводження програмного продукту» 
 > 
 > на тему «Мобільний додаток»
 
 ![Under Development](https://img.shields.io/badge/under-development-orange.svg)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.   
 
