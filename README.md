@@ -2,7 +2,7 @@
 
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технологічна+практика)](https://git.io/typing-svg)
+> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технологічна+практика)
 > 
 > «Розробка і супроводження програмного продукту» 
 > 
