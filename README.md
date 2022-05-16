@@ -4,10 +4,8 @@
 
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Розробка+багатокористувацької+системи+обліку+робочого+часу+на+підприємстві)
 > 
+> «Переддипломна практика» 
 > 
-> «Розробка і супроводження програмного продукту» 
-> 
-> на тему «Мобільний додаток»
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
