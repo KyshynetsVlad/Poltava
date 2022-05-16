@@ -1,5 +1,6 @@
-<img src="https://github.com/Vadym-Al/Time-Accounting/blob/main/png/logo.png" align="left" width="256px" height="128px"/>
+<img src="https://github.com/Vadym-Al/Time-Accounting/blob/main/png/logo.png" align="left" width="286px" height="158px"/>
 
+<img align="left" width="0" height="192px" hspace="10"/>
 
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F7F7&lines=Time+Accounting)
 > 
