@@ -1,4 +1,4 @@
-<img src="https://github.com/Vadym-Al/Time-Accounting/blob/main/png/logo.png" align="left" width="364px" height="172px"/>
+<img src="https://github.com/Vadym-Al/Time-Accounting/blob/main/png/logo.png" align="left" width="256px" height="128px"/>
 
 <img align="left" width="0" height="192px" hspace="10"/>
 
