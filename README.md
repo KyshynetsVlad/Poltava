@@ -13,6 +13,7 @@
 
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.   
 <br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadym-Al&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vadym-Al=solarized_dark)
 
 ## Рушій
 
