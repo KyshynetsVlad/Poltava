@@ -2,7 +2,7 @@
 
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> Технологічна практика 
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технологічна+практика)](https://git.io/typing-svg)
 > 
 > «Розробка і супроводження програмного продукту» 
 > 
@@ -141,4 +141,4 @@
 <p align="center"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1SD6d-Ml3ZV9MV_HDaUsjxuhuMEfsy_4k%2Fview%3Fusp%3Dsharing&4&0"/></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Site+for+time)](https://git.io/typing-svg)
+
