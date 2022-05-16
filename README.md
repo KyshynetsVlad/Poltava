@@ -13,7 +13,6 @@
 
 Завданням практики є розробка мобільного застосунку для дітей, який був би здатен заохотити їх до вивчення літератури та культури рідного краю.   
 <br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadym-Al&theme=solarized_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadym-Al&layout=compact&theme=solarized_dark)
 ## Рушій
 
 В ході виконання завдання було використано середовище розробки кросплатформних додатків GDevelop 5.  
