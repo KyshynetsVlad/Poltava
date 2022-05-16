@@ -2,7 +2,7 @@
 
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Розробка+багатокористувацької+системи+обліку+робочого+часу+на+підприємстві)
+> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Time+Accounting)
 > 
 > «Переддипломна практика» 
 > 
